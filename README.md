@@ -38,9 +38,13 @@ This project is a simple implementation of the classic Snake Game using HTML, CS
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal or file explorer.
-3. Open `index.html` in your preferred web browser to start the game.
-4. Use the arrow keys on your keyboard to control the snake and try to eat the food items.
-5. Avoid colliding with the walls or the snake’s own body to keep the game going.
+3. Put the `style.css` file inside the css folder
+4. Put the `index.js` file inside the js folder
+5. Put all the `images` inside the images folder
+6. Put all the `musics` inside the songs folder
+7. Open `index.html` in your preferred web browser to start the game.
+8. Use the arrow keys on your keyboard to control the snake and try to eat the food items.
+9. Avoid colliding with the walls or the snake’s own body to keep the game going.
 
 ## Customization
 
